@@ -1,1 +1,1 @@
-Testing GitHub CLI PR creation
+This repo was created just for learning git cli.
